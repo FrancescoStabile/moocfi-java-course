@@ -1,7 +1,6 @@
 # moocfi-java-course
-Welcome to a repository containing a diverse range of solutions for the exercises from the Java Programming course offered by the University of Helsinki's Computer Science Department. This collection presents completed assignments, showcasing the knowledge acquired throughout the course duration.
+Welcome to a repository showcasing the projects developed during the Java Programming course offered by the University of Helsinki's Computer Science Department. This collection presents completed assignments, showcasing the knowledge acquired throughout the course duration.
 
-About the Course:
 The Mooc Fi Java Programming 1 course offered a deep dive into Java programming, encompassing vital concepts and their practical implementations. A series of exercises and stimulating projects to refine the expertise in Java fundamentals, object-oriented programming, data structures, and algorithmic problem-solving.
 
 - Demonstrable fluency in Java syntax and adherence to coding best practices.
